@@ -8,9 +8,9 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 
 # manual name mapping (update with ur friends’ pics)
 known_faces = {
-    "Vittal-photo.jpg": "Vittal",
-    "Prasanna.jpg": "Prasanna",
-    "sahaj.jpg": "Sahaj"
+    "person1.jpg": "person1",
+    "person2.jpg": "person2",
+    "person3.jpg": "person3"
 }
 
 # start webcam
