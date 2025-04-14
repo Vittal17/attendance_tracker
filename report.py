@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("attendance vibes")
+st.title("attendance report")
 
 # load the CSV, handle empty case
 try:
